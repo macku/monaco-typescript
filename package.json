@@ -11,6 +11,9 @@
 		"import-typescript": "node ./scripts/importTypescript",
 		"prettier": "prettier --write ."
 	},
+	"files": [
+		"src"
+	],
 	"author": "Microsoft Corporation",
 	"license": "MIT",
 	"repository": {
